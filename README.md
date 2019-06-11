@@ -80,3 +80,7 @@ Code samples and explanation are from:
 https://github.com/dotnet/docs/blob/master/docs/fsharp/language-reference/pattern-matching.md
 *)
 ```
+
+## Sample html file
+
+The generated HTML file can be viewed [here](https://htmlpreview.github.io/?https://github.com/gbih/FSharp-literate-fs/blob/master/doc-output/Program.html)
