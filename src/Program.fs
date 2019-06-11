@@ -40,6 +40,21 @@ detect1 0 |> printfn "%A"
 detect1 1 |> printfn "%A"
 
 
+
+(**
+### IMAGE/GRAPHICS TEST
+
+Absolute Image Url:
+
+![test](https://upload.wikimedia.org/wikipedia/commons/f/f8/5_lemma.svg)
+
+Relative Image Url:
+
+![myImage](../doc-assets/images/Fsharp,_Logomark,_October_2014.svg)
+
+*)
+
+
 (**
 Code samples and explanation are from:
 
